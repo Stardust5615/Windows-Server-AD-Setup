@@ -75,7 +75,6 @@ It includes domain setup, user and group management, and security policies.
 4. Right-click the new policy → **Edit**.  
 5. Navigate to **Computer Configuration** → **Windows Settings** → **Security Settings**.  
 6. Configure settings (e.g., enforce password complexity).  
-![21](https://github.com/user-attachments/assets/c5e4ab15-2d96-4acb-ba69-ea6c8c0f95d0)
 ![20](https://github.com/user-attachments/assets/f1a5c18b-397e-4d94-aaa0-115e15403d6f)
 ![19](https://github.com/user-attachments/assets/22c5ad5a-8d64-48d4-96fb-4a0d4a8844cf)
 ![18](https://github.com/user-attachments/assets/d068f0b2-748d-479d-8311-7fc9f5e4a2c1)
@@ -84,3 +83,4 @@ It includes domain setup, user and group management, and security policies.
 ![15](https://github.com/user-attachments/assets/f8544b35-9387-4e1d-89b1-76bac90d6fd0)
 ![14](https://github.com/user-attachments/assets/7ea9b619-a87d-40e1-a63c-807a6a12f308)
 ![13](https://github.com/user-attachments/assets/7f05df3e-c0aa-4410-b50f-4b07c1cb5ef8)
+![21](https://github.com/user-attachments/assets/c5e4ab15-2d96-4acb-ba69-ea6c8c0f95d0)
